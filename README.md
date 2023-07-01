@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Harsh. I'm a tech enthuziastic who loves to code.
+
 <!--
 **harshv1741/harshv1741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
