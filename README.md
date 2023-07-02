@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Harsh. I'm a tech enthuziastic who loves to code.
+My name is Harsh. I'm a tech geek who loves to learn something new about anything. My hometown is in India, and I'm a music lover
 
 <!--
 **harshv1741/harshv1741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
