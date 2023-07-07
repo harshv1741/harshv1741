@@ -2,6 +2,9 @@
 
 My name is Harsh. I'm a tech geek who loves to learn something new about anything. My hometown is in India, and I'm a music lover
 
+
+![Harsh Vyapari's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshv1741&show_icons=true)
+
 <!--
 **harshv1741/harshv1741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
