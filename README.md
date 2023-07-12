@@ -5,7 +5,7 @@ My name is Harsh. I'm a tech geek who loves to learn something new about anythin
 I'm still learning a lot from this community. I hope that I'll continue to follow this path.
 
 
-![Harsh Vyapari's GitHub stats()](https://github-readme-stats.vercel.app/api?username=harshv1741&show_icons=true&theme=radical)
+![Harsh Vyapari's GitHub stats()](https://github-readme-stats.vercel.app/api?username=harshv1741&show icons=true)
 
 <!--
 **harshv1741/harshv1741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
